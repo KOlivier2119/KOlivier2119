@@ -23,7 +23,7 @@
  </div>
  
 <div align="center"> 
-    <img align="right" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+   
   <a href="mailto:rutagandasalim@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
