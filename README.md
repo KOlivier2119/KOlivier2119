@@ -13,7 +13,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Django, Next**
+ 🌱 I’m currently learning **Solidity**
 
 💬 Ask me about **Node.js, React, MongoDB...**
 
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,figma,tailwind,vercel" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,nextjs,mysql,postman,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,nextjs,mysql,postman,vscode,nestjs,firebase,prisma,solidity" /><br>
 </div>
 
 <br/>
